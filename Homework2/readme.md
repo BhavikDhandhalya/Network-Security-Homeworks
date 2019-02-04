@@ -2,7 +2,7 @@ Homework -> [link](https://sites.google.com/pilani.bits-pilani.ac.in/cs-g513/hom
 
 # Establishing Secure Communications for Fun Homework #2
 
-### This homework has two goals:
+This homework has two goals:
 1. To demonstrate that how you can make your private communication secure just by
 implementing a simple encryption algorithm?
 2. To introduce you the basics of breaking a larger string into blocks and converting these
