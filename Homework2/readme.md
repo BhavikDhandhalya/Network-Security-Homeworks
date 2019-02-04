@@ -9,6 +9,7 @@ implementing a simple encryption algorithm?
 blocks in form of bit vectors. This is required to perform various bitwise operations over
 these strings. You will see, that the encryption/decryptions algorithms make use of such
 bitwise operations heavily.
+
 You are supposed to perform the following tasks:
 1. The python script provided along with this homework implements an encryption algorithm,
 that takes a plaintext message file as input and produces an encrypted file as the output.
